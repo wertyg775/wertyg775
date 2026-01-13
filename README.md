@@ -54,7 +54,11 @@ Scraped and engineered features from Netkeiba data, built Random Forest classifi
 
 ## GitHub Stats
 
-![Danish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wertyg775&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=wertyg775&show_icons=true&theme=radical&rank_icon=github" alt="Danish's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=wertyg775&layout=compact&theme=radical&hide=jupyter%20notebook" alt="Top Languages" />
+</div>
 
 ## Currently Learning
 
