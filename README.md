@@ -8,7 +8,7 @@ I'm a 3rd year Computer Science (Data Science) student at the University of Mala
 
 - Building scalable ML systems with async architectures
 - Exploring AWS cloud services (S3, Lambda, and more)
-- Developing end-to-end data pipelines and forecasting models
+- Exploring AI engineering and working with Agentic applications
 
 ## Tech Stack
 
