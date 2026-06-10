@@ -1,14 +1,13 @@
 # Hi there, I'm Danish 
 
-I'm a 3rd year Computer Science (Data Science) student at the University of Malaya, passionate about building intelligent systems that solve real-world problems. Currently exploring the intersection of machine learning, scalable architectures, and cloud technologies.
+I'm a 3rd year Computer Science (Data Science) student at the University of Malaya, currently on a 1-year internship at Rosary Labs. My recent passion has been Machine Learning and AI research and its intersection with Systems Engineering. 
 
-**Actively seeking internship opportunities** in Machine Learning, Data Science, or Data Engineering starting March 2026.
+## Current focus
 
-## What I'm Working On
-
-- Building scalable ML systems with async architectures
-- Exploring AWS cloud services (S3, Lambda, and more)
-- Exploring AI engineering and working with Agentic applications
+- Building a compiler in C
+- Creating an inference engine for serving LLMs
+- Completing Stanford's CS336 to learn frontier techniques of language modelling
+- Solidifying ML/AI fundamentals
 
 ## Tech Stack
 
