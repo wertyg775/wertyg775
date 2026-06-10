@@ -1,4 +1,4 @@
-# Hi there, I'm Danish 👋
+# Hi there, I'm Danish 
 
 I'm a 3rd year Computer Science (Data Science) student at the University of Malaya, passionate about building intelligent systems that solve real-world problems. Currently exploring the intersection of machine learning, scalable architectures, and cloud technologies.
 
