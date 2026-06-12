@@ -2,7 +2,7 @@
 
 I'm a 3rd year Computer Science (Data Science) student at the University of Malaya, currently on a 1-year internship at Rosary Labs. My recent passion has been Machine Learning and AI research and its intersection with Systems Engineering. 
 
-## Current focus
+## Current projects
 
 - Building a compiler in C
 - Creating an inference engine for serving LLMs
@@ -57,17 +57,9 @@ Scraped and engineered features from Netkeiba data, built Random Forest classifi
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=wertyg775&layout=compact&theme=radical&hide=jupyter%20notebook" alt="Top Languages" />
 </div>
 
-## Currently Learning
-
-- Cloud architecture with AWS (S3, Lambda, EC2)
-- Advanced FastAPI patterns and microservices
-- MLOps and model deployment strategies
-- Deep Learning & Transformer Models
 ## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-danish-luqman-bin-shaifuddin-97354b361/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:danishshaifuddin.DL@gmail.com)
 
 ---
-
-*Open to internship opportunities and collaborations in ML/Data Engineering*
