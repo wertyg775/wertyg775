@@ -1,6 +1,6 @@
-# Hi there, I'm Danish 
 
-I'm a 3rd year Computer Science (Data Science) student at the University of Malaya, currently on a 1-year internship at Rosary Labs. My recent passion has been Machine Learning and AI research and its intersection with Systems Engineering. 
+
+I'm Danish, a 3rd year Computer Science (Data Science) student at the University of Malaya, currently on a 1-year internship at Rosary Labs. My recent passion has been Machine Learning and AI research and its intersection with Systems Engineering. 
 
 ## Current projects
 
@@ -29,25 +29,6 @@ I'm a 3rd year Computer Science (Data Science) student at the University of Mala
 
 ## Featured Projects
 
-### [Real-Time Content Moderation Engine](https://github.com/wertyg775/tcd)
-Scalable moderation API with Redis queue architecture for async processing of text and image content. Integrated transformer models (ALBERT, RoBERTa, ELECTRA) and CLIP for multi-class toxicity detection with ~10ms API response time.
-
-**Tech:** FastAPI, Redis, PyTorch, Transformers, CLIP
-
-### [AI-Powered Inventory Forecasting System](https://github.com/wertyg775/prof_v2)
-Full-stack forecasting platform comparing Holt-Winters, SARIMA, and Prophet models across 60,000+ transactions. Achieved 15% MAPE with 8% improvement over naive baseline.
-
-**Tech:** Python, Scikit-learn, Prophet, FastAPI
-
-### [Multi-Dimensional Greenwashing Detection](https://github.com/wertyg775/greenwashing)
-End-to-end NLP pipeline combining specificity analysis, sentiment analysis, and linguistic pattern detection using BERT to identify greenwashing in corporate communications.
-
-**Tech:** BERT, PyTorch, Transformers, NLP
-
-### [Horse Racing Prediction Model](https://github.com/wertyg775/horse-racing-arima-kinen-2013)
-Scraped and engineered features from Netkeiba data, built Random Forest classifier to predict winning probabilities for the Arima Kinen 2013 race.
-
-**Tech:** Python, Scikit-learn, Web Scraping, Feature Engineering
 
 ## GitHub Stats
 
