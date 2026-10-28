@@ -25,7 +25,7 @@ I'm Danish, a 3rd year Computer Science (Data Science) student at the University
 
 **Frameworks & Tools**  
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/-Django--092E20?style=flat&logo=django&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
 ## Featured Projects
