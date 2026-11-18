@@ -1,13 +1,10 @@
-
+## HI ALL
 
 I'm Danish, a 3rd year Computer Science (Data Science) student at the University of Malaya, currently on a 1-year internship at Rosary Labs. My recent passion has been Machine Learning and AI research and its intersection with Systems Engineering. 
 
-## Current projects
-
-- Building a compiler in C
-- Creating an inference engine for serving LLMs
-- Completing Stanford's CS336 to learn frontier techniques of language modelling
-- Solidifying ML/AI fundamentals
+- trying out nixos
+- setting up homelab using proxmox
+- AI Infra 
 
 ## Tech Stack
 
@@ -19,17 +16,11 @@ I'm Danish, a 3rd year Computer Science (Data Science) student at the University
 
 **ML/Data Science**  
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
 **Frameworks & Tools**  
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
-
-## Featured Projects
-
 
 ## GitHub Stats
 
