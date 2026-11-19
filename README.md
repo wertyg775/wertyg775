@@ -4,7 +4,7 @@ I'm Danish, a 3rd year Computer Science (Data Science) student at the University
 
 - trying out nixos
 - setting up homelab using proxmox
-- AI Infra 
+- AI Infra and Research
 
 ## Tech Stack
 
